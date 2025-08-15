@@ -10,6 +10,13 @@ EU sou Junior Silva, estudante de Analise e esenvolvimento de Sistemas e Front-e
   - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo"/>   Em Desenvolvimento
 <br>
 <br>
+    <a href="https://www.linkedin.com/in/jose-maria-da-silva-j%C3%BAnior-3155a3157/">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"/>
+    </a>
+  <br>
+    <a href="https://www.instagram.com/junior311289/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram-logo"/>
+    </a>
+  <br>
+  <br>
   
 [![Junior Stats](https://github-readme-stats.vercel.app/api?username=JuniorSilva311289)](https://github.com/anuraghazra/github-readme-stats)
 <br>
